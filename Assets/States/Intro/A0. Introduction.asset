@@ -10,22 +10,21 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 12a78814a5c68964c9628be45365da4c, type: 3}
-  m_Name: StartingState
+  m_Name: A0. Introduction
   m_EditorClassIdentifier: 
-  storyText: 'Festers. Everywhere. Armed mostly with gas=powered rock flingers.
-
-    At
-    least 10 of them guarding the hangar door. Typical.
+  storyText: 'Welcome to this game.
 
 
-    Could try punching
-    my way through. Or sneaking the long way to the emergency exit.
+    It''s a choose your own adventure. Be careful
+    what you wish for!
 
 
-    What should
-    I do?
+    At each stage you''ll be asked to push a key on the
+    keyboard, for example 1 or 2 or 3.
 
-    1. Take them head on - rush the 10 guards.
 
-    2. Sneak my way to
-    the emergency exit.'
+    At any point in time, push "q" to quit.
+
+'
+  nextStates:
+  - {fileID: 11400000, guid: 8a8180b109ae5c240a8113fe291d2e92, type: 2}

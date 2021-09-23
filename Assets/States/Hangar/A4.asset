@@ -10,6 +10,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 12a78814a5c68964c9628be45365da4c, type: 3}
-  m_Name: Room 2
+  m_Name: A4
   m_EditorClassIdentifier: 
-  storyText: Okeay, this looks like room 2.
+  storyText: 'You give it a good 10 minutes. No dice. Not going to happen.
+
+
+    You
+    do realise that you have no idea how to pick a lock right? You''re an airship
+    pilot, not a common thief.
+
+
+    So what now?
+
+    1. Fine, try to pry it.'
+  nextStates:
+  - {fileID: 11400000, guid: b6ebda617d477264593c65b69d64c05d, type: 2}
