@@ -3473,6 +3473,10 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 21300000, guid: cb83d4b3e674e414ca510b9a69421107, type: 3}
+    - target: {fileID: 7539949144882346678, guid: f5123d1690f22fb459083e48c9f13725, type: 3}
+      propertyPath: blockSparklesVFX
+      value: 
+      objectReference: {fileID: 100000, guid: 7d846c02296ef4dc4abff04ce3e5262c, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f5123d1690f22fb459083e48c9f13725, type: 3}
 --- !u!4 &1886955314 stripped
