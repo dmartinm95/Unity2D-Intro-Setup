@@ -914,6 +914,10 @@ PrefabInstance:
       propertyPath: paddle1
       value: 
       objectReference: {fileID: 770073993}
+    - target: {fileID: 39786687229278778, guid: 5dbd8669a865f08499baa2fd35e105c2, type: 3}
+      propertyPath: randomFactor
+      value: 0.5
+      objectReference: {fileID: 0}
     - target: {fileID: 39786687229278783, guid: 5dbd8669a865f08499baa2fd35e105c2, type: 3}
       propertyPath: m_Name
       value: Ball
