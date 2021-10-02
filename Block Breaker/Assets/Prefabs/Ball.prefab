@@ -140,7 +140,7 @@ MonoBehaviour:
   yPush: 15
   ballSounds:
   - {fileID: 8300000, guid: aa24722be71d93844969afab11de65d9, type: 3}
-  randomFactor: 0.5
+  randomFactor: 1
 --- !u!82 &1685960895
 AudioSource:
   m_ObjectHideFlags: 0

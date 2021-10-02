@@ -729,6 +729,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4260288119671820403, guid: 95cf3e1ab129de042a2fe267d1387fa7, type: 3}
+      propertyPath: isAutoPlayEnabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4260288119671820404, guid: 95cf3e1ab129de042a2fe267d1387fa7, type: 3}
       propertyPath: m_Name
       value: Game Status
@@ -872,11 +876,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 39786687229278777, guid: 5dbd8669a865f08499baa2fd35e105c2, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 7.988
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 39786687229278777, guid: 5dbd8669a865f08499baa2fd35e105c2, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.776
+      value: 0.75
       objectReference: {fileID: 0}
     - target: {fileID: 39786687229278777, guid: 5dbd8669a865f08499baa2fd35e105c2, type: 3}
       propertyPath: m_LocalPosition.z
@@ -914,10 +918,6 @@ PrefabInstance:
       propertyPath: paddle1
       value: 
       objectReference: {fileID: 770073993}
-    - target: {fileID: 39786687229278778, guid: 5dbd8669a865f08499baa2fd35e105c2, type: 3}
-      propertyPath: randomFactor
-      value: 0.5
-      objectReference: {fileID: 0}
     - target: {fileID: 39786687229278783, guid: 5dbd8669a865f08499baa2fd35e105c2, type: 3}
       propertyPath: m_Name
       value: Ball
@@ -1108,7 +1108,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6748601928594138556, guid: 8f1774d28a3a1804f8e59842eff8ca36, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 7.992
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 6748601928594138556, guid: 8f1774d28a3a1804f8e59842eff8ca36, type: 3}
       propertyPath: m_LocalPosition.y
